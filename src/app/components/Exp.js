@@ -26,7 +26,7 @@ const Exp =()=>{
             <div className="w-3/12 shadow-xl m-2 p-4 rounded-lg text-center hover:bg-slate-100 hover:shadow-xl">
             <img className="w-52 h-40" src="asp.png"/><br/>
                 <h1 className="font-bold">ASP Global Works</h1>
-                <h3>Junior Financial Analyst</h3>
+                <h3>Research Analyst (React.js Developer) </h3>
                 <h6 className="text-gray-600 text-xs">2019 August - 2020 Feb</h6><br/>
             </div>
 
