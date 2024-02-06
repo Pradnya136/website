@@ -9,7 +9,7 @@ const Project =()=>{
                 <a href="https://fs-foodstore.netlify.app/">
                 <button className="rounded-lg p-4 m-2 border-2 hover:bg-slate-200 border-black">💻Food Ordering  App</button>
                 </a>
-                <a href="https://fs-foodstore.netlify.app/">
+                <a href="https://portfolio133.netlify.app/">
                 <button className="rounded-lg p-4 m-2 border-2 hover:bg-slate-200 border-black">💻Portfolio</button>
                 </a>
                 <a href="https://inspireschool.netlify.app/">
