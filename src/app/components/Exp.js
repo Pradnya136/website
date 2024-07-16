@@ -31,10 +31,10 @@ const Exp =()=>{
             </div>
 
             <div className="w-3/12 shadow-xl m-2 p-4 rounded-lg text-center hover:bg-slate-100 hover:shadow-xl">
-            <img className="w-52 h-40" src="freelancer.jpg"/><br/>
-                <h1 className="font-bold">Freelancing</h1>
-                <h3>Taking Gigs</h3>
-                <h6 className="text-gray-600 text-xs">2021</h6><br/>
+            <img className="w-52 h-40" src="letzstepin.png"/><br/>
+                <h1 className="font-bold">Letzstepin Pvt Ltd.</h1>
+                <h3>Frontend Developer</h3>
+                <h6 className="text-gray-600 text-xs">2021 July - March 2024</h6><br/>
             </div>
         </div>
         </>

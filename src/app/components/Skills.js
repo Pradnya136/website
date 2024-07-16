@@ -10,20 +10,20 @@ const Skills = () =>{
             <ul>
                 <li>🔹- Javascript</li>
                 <li>🔹- HTML/CSS</li>
-                <li>🔹- SQL</li>
-            </ul><br/>
-            <button className="text-lg p-2 text-blue-800 ">▶️Frameworks/Libraries</button><br/>
-            <ul>
                 <li>🔹- React.js</li>
                 <li>🔹- Redux</li>
-                <li>🔹- Tailwind.css</li><br/>
-            </ul>
-            <button className="text-lg p-2 text-blue-800 ">▶️Tools</button>
-            <ul>
+                <li>🔹- Tailwind.css</li>
                 <li>🔹- Visual Studio Code</li>
                 <li>🔹- Git</li>
+                <li>🔹- Jest (Unit Testing) </li>
+                <li>🔹- Parcel</li>
+                <li>🔹- API</li>
+                <li>🔹- Hooks</li>
                
-            </ul>
+            
+            </ul><br/>
+  
+
         </div>
     )
 }
