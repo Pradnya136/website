@@ -11,6 +11,7 @@ const Skills = () =>{
                 <li>🔹- Javascript</li>
                 <li>🔹- HTML/CSS</li>
                 <li>🔹- React.js</li>
+                <li>🔹- Next.js</li>
                 <li>🔹- Redux</li>
                 <li>🔹- Tailwind.css</li>
                 <li>🔹- Visual Studio Code</li>
